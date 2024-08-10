@@ -1,5 +1,4 @@
 using GoodHamburger.Api;
-using GoodHamburger.Api;
 
 var builder = WebApplication.CreateBuilder(args);
 
